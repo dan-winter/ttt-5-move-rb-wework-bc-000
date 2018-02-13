@@ -10,3 +10,4 @@ end
 
 index = input_to_index(input)
 
+update
