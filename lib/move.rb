@@ -11,3 +11,5 @@ end
 index = input_to_index(input)
 
 move(board, index, "X")
+
+display_board(board)
